@@ -1,2 +1,2 @@
 # rmi-application
-RMI Sales Systems 
+RMI Sales Systems (Client Application)
